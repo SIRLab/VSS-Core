@@ -2,6 +2,7 @@
 
 [![Trello](https://img.shields.io/badge/Trello-SDK-blue.svg)][vss-sdk-trello]
 [![Slack](https://img.shields.io/badge/Slack-Channel-551a8b.svg)][slack]
+[![Slack](https://img.shields.io/badge/Whatsapp-Group-green.svg)][whatsapp]
 
 O VSS-Core é uma biblioteca open-source que faz parte do VSS-SDK.
 Contém interfaces de comunicação entre os projetos do SDK, modelos que representam o domínio do problema de futebol de robôs e métodos uteis. Os pacotes trafegam utilizando ZeroMQ e são serializados utilizando Protobuf.
@@ -39,3 +40,4 @@ Você pode utilizar esse código. Caso o faça, nos informe.
 [vss-sdk-trello]: https://trello.com/b/b4dVV6ug/vss-sdk
 [slack]: https://vss-sdk.slack.com
 [wiki]: https://github.com/SIRLab/VSS-Core/wiki
+[whatsapp]: whatsapp://chat?code=ESqglT350Jd4GUi5BQLxEp
